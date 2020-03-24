@@ -1,5 +1,7 @@
 # Creating Real Estate Pricing Model for Ames, Iowa
 
+(Won 2nd Place Globally in Kaggle Competition)
+
 ### Problem Statement 
 
 The Iowa Assessor's Office in Ames published a robust dataset that detailed out the sales record of real properties in the city of Ames from 2007 - 2010. Our goal is to build a regression model that leverages this dataset to establish a fair price for properties in Ames.
